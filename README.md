@@ -1,7 +1,9 @@
 ### 1. Project Introduction
 An AI shopping assistant using LLM, Langchain and RAG pipelines.
 
-![alt text](images/app.gif)
+**Demo:**
+
+![Demo](images/app.gif)
 
 - **Tech stack**
 
