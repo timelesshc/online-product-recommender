@@ -126,7 +126,7 @@ An AI shopping assistant using LLM, Langchain and RAG pipelines.
 
 ```bash
 git config --global user.email "xxx@xxx.com"
-git config --global user.name "xxx"
+git config --global user.name "xxxx"
 
 git add .
 git commit -m "commit"
