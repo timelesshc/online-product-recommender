@@ -148,7 +148,11 @@ docker build -t llmops-app:latest .
 
 kubectl create secret generic llmops-secrets \
   --from-literal=GROQ_API_KEY="" \
-  --from-literal=HUGGINGFACEHUB_API_TOKEN=""
+  --from-literal=HUGGINGFACEHUB_API_TOKEN="" \
+  --from-literal=HF_TOKEN="" \
+  --from-literal=ASTRA_DB_API_ENDPOINT="" \
+  --from-literal=ASTRA_DB_APPLICATION_TOKEN="" \
+  --from-literal=ASTRA_DB_KEYSPACE="" 
 
 kubectl apply -f llmops-k8s.yaml
 
