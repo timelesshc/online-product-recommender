@@ -1,3 +1,4 @@
 .env
 venv/
 online_product_recommender.egg-info/
+.vscode
