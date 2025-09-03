@@ -1,5 +1,5 @@
 ### 1. Project Introduction
-An AI shopping assistant using LLM, Langchain and RAG pipelines.
+An AI-powered shopping assistant using LLM, Langchain and RAG pipelines.
 
 **Demo:**
 
@@ -212,11 +212,4 @@ URL: http://prometheus-service.monitoring.svc.cluster.local:9090
 Click Save & Test
 
 Green success mesaage shown....
-
-
-######################################
-
-
-Now make a dashboard for different visualization
-See course video for that....
 ```
